@@ -120,4 +120,4 @@ This foundation prepares you for advanced configuration management and automatio
 
 ### Author
 Project by: Samson Bakare
-Tooling: Kubernetes, Minikube, Kustomize, YAML
+
